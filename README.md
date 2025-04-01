@@ -1,1 +1,2 @@
-# VirtualProgrammingLab
+# VirtualProgrammingLaB
+ Based on Moodle LMS 
